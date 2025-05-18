@@ -18,7 +18,7 @@ function preload() {
 
 function setup() {
     createCanvas(windowWidth, windowHeight);
-    background("black");
+    background("green");
     blockYPos = windowHeight - 200;
     blockWidth = windowWidth * 0.1;
     blockHeight = windowWidth * 0.05;
